@@ -2,6 +2,8 @@
 
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/c732a9bc-9c34-40ae-b409-d1418cb0a49e">
 
+https://app.smojo.org/iamsp/JokeTeller
+
 ## Project Overview
 The objective of this project is to create a chatbot using Smojo AI development tool. This is part of an assignment from chatbot development workshop titled **Build your own GenAI Powered Personal Assistants** organised by Singapore National Libray Board and AI4IMPACT (www.ai4impact.org). AI4IMPACT is a School of Applied AI created by Terra AI (www.terra-ai.sg), that connects students from around the world to learn, collaborate and solve real-world challenges.
 
